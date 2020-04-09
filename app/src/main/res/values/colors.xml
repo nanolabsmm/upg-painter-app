@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="btn_color">#3A62FF</color>
+    <color name="background_color">#FAFCFD</color>
+    <color name="white_color">#FFFFFF</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screen text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    //for intro slider
+    <color name="intro_description">#5D5D5D</color>
+    <color name="intro_title">#1E2C40</color>
+
+    //login text
+    <color name="text_title">#303030</color>
+
+    <color name="choose_register_text_title">#1E2C40</color>
+    <color name="choose_register_color">#1E2C40</color>
+    <color name="personal_info_text_color">#1E2C40</color>
+
+    //home background shape color
+    <color name="home_shap_back">#3A62FB</color>
+
+
+
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">UPG Painter</string>
+    <!--    <string name="choose_language">Choose Your Preference Language </string>-->
+    <string name="choose_language">Choose Your Preference Language</string>
+    <string name="getStart">Get Started</string>
+    <string name="test">Hello world</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="account_create_text">By creating an account, you agree to our</string>
+    <string name="term_condition">Terms of Service and Privacy Policy</string>
+    <string name="greeting_text">Hello, welcome!</string>
+    <string name="veryfile_text">Verify Your Phone Number</string>
+    <string name="comfirm_text_title">"We’ve sent you 6 digit number via SMS. "</string>
+    <string name="comfirm_otp_text">Enter your OTP code below</string>
+    <string name="resend_code">Resend Code in</string>
+    <string name="choose_register">Signup Preferences</string>
+    <string name="choose_register_text_des">Choose your sign up preferences below </string>
+    <string name="choose_register_text_des1">two options before getting started.</string>
+    <string name="register_individual_text">Sign up as an</string>
+    <string name="register_individual_text_1">individual</string>
+    <string name="register_company_text">Sign up as a</string>
+    <string name="register_company_text1">Company</string>
+    <string name="btn_continue">Continue</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="full_name">Fullname</string>
+    <string name="personal_name">Enter Your Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="occupation">Occupation</string>
+    <string name="enter_personal_occupation">Enter Your Occupation</string>
+    <string name="nrc_number">NRC Number</string>
+    <string name="last_nrc_no">Enter Last NRC Number</string>
+    <string name="living_address">Living Address</string>
+    <string name="enter_living_address">Enter Your Living Address</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="company_info">Business Info</string>
+    <string name="title_activity_main_bottom_navigation">MainBottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_title_redeem">Redeem</string>
+    <string name="nav_title_scan">Scan</string>
+    <string name="nav_title_inbox">Inbox</string>
+    <string name="nav_title_setting">Setting</string>
+    <string name="current_point">Current Points</string>
+    <string name="cuurent_point_no">250 pts</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="near_by">Nearby</string>
+    <string name="my_point">My Points</string>
+    <string name="bar_redeem">Redeem</string>
+    <string name="spin_weel_text">"Spin the wheel to earn extra "</string>
+    <string name="spinn_weel_text1">" reward points"</string>
+    <string name="spin_btn_text">Spin Now</string>
+
+
+</resources>

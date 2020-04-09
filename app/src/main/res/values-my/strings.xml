@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UPG Painter</string>
+    <string name="choose_language">နှစ်သက်သော ဘာသာစကားရွေးချယ်ပါ</string>
+    <string name="getStart">စတင်ပါ</string>
+    <string name="test">မင်္ဂလာပါ ကမ္ဘာလောက</string>
+    <string name="phone_number">ဖုန်းနံပါတ် ထည့်ပါ</string>
+    <string name="account_create_text">အကောင့်တစ်ခုဖွင့်ခြင်းအားဖြင့် ကျွန်ုပ်တို့ဝန်ဆောင်မှု၏</string>
+    <string name="term_condition">စည်းကမ်းချက်များနှင့်မူဝါဒကို သဘောတူသည်</string>
+    <string name="greeting_text">မင်္ဂလာပါ</string>
+    <string name="veryfile_text" >သင်၏ဖုန်းနံပါတ်ကိုစစ်ဆေးပါ</string>
+    <string name="comfirm_text_title">"We’ve sent you 6 digit number via SMS. "</string>
+    <string name="comfirm_otp_text">Enter your OTP code below</string>
+    <string name="resend_code">Resend Code in</string>
+
+    <string name="choose_register_text_des">Choose your sign up preferences below </string>
+    <string name="choose_register_text_des1">two options before getting started.</string>
+
+</resources>
