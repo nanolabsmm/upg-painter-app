@@ -1,4 +1,4 @@
-package com.nanolabs.upgpainter.data
+package com.nanolabs.upgpainter.data.data
 
 data class ScreenItem(
     var Title: String? = null, var Description: String? = null,

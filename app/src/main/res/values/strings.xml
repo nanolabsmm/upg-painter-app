@@ -51,6 +51,10 @@
     <string name="spin_weel_text">"Spin the wheel to earn extra "</string>
     <string name="spinn_weel_text1">" reward points"</string>
     <string name="spin_btn_text">Spin Now</string>
+    <string name="type_item_name">Type Item Name</string>
+    <string name="valued">Valued</string>
+    <string name="redeem_price">5,000 kyats</string>
+    <string name="redeem_button_points">500 points</string>
 
 
 </resources>

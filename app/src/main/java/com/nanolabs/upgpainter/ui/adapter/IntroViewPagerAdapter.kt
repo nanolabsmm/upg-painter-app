@@ -8,7 +8,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.viewpager.widget.PagerAdapter
 import com.nanolabs.upgpainter.R
-import com.nanolabs.upgpainter.data.ScreenItem
+import com.nanolabs.upgpainter.data.data.ScreenItem
 
 class IntroViewPagerAdapter(
     var mContext: Context,

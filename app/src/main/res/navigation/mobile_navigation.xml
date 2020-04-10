@@ -7,19 +7,29 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.nanolabs.upgpainter.ui.fragments.ui.home.HomeFragment"
+        android:name="com.nanolabs.upgpainter.ui.fragments.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.nanolabs.upgpainter.ui.fragments.ui.dashboard.DashboardFragment"
+        android:name="com.nanolabs.upgpainter.ui.fragments.redeem.RedeemFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_redeem" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.nanolabs.upgpainter.ui.fragments.ui.notifications.NotificationsFragment"
+        android:name="com.nanolabs.upgpainter.ui.fragments.scan.ScanFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_scan" />
+    <fragment
+        android:id="@+id/navigation_inbox"
+        android:name="com.nanolabs.upgpainter.ui.fragments.inbox.InboxFragment"
+        android:label="fragment_inbox"
+        tools:layout="@layout/fragment_inbox" />
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.nanolabs.upgpainter.ui.fragments.setting.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
 </navigation>

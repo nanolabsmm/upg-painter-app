@@ -1,13 +1,13 @@
-package com.nanolabs.upgpainter.ui.fragments.ui.dashboard
+package com.nanolabs.upgpainter.ui.fragments.setting
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class DashboardViewModel : ViewModel() {
+class SettingViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is dashboard Fragment"
+        value = "This is setting Fragment"
     }
     val text: LiveData<String> = _text
 }

@@ -32,6 +32,11 @@
     //home background shape color
     <color name="home_shap_back">#3A62FB</color>
 
+    <color name="redeem_card_text_color">#9FA5BB</color>
+    <color name="redeem_button_color">#FF9501</color>
+
+    <color name="see_more_color">#9FA5BB</color>
+
 
 
 </resources>

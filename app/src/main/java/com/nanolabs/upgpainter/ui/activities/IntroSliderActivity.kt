@@ -10,7 +10,7 @@ import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AppCompatActivity
 import com.nanolabs.upgpainter.R
-import com.nanolabs.upgpainter.data.ScreenItem
+import com.nanolabs.upgpainter.data.data.ScreenItem
 import com.nanolabs.upgpainter.ui.adapter.IntroViewPagerAdapter
 import kotlinx.android.synthetic.main.activity_intro_slider.*
 import java.util.*
@@ -40,9 +40,27 @@ class IntroSliderActivity : AppCompatActivity() {
 
         // setup viewpager
         val mList: MutableList<ScreenItem> = ArrayList()
-        mList.add(ScreenItem("Scan QR Code", "Grab paint bucket and scan QR code to earn rewards points.", R.drawable.undraw_directions))
-        mList.add(ScreenItem("Visit Nearby Stores", "Visit nearby UPG retails shop and redeem items with your points.", R.drawable.undraw_directions))
-        mList.add(ScreenItem("Earn More, Enjoy More", "Within the UPG app, earn more points and enjoy more rewards.", R.drawable.undraw_winners))
+        mList.add(
+            ScreenItem(
+                "Scan QR Code",
+                "Grab paint bucket and scan QR code to earn rewards points.",
+                R.drawable.undraw_directions
+            )
+        )
+        mList.add(
+            ScreenItem(
+                "Visit Nearby Stores",
+                "Visit nearby UPG retails shop and redeem items with your points.",
+                R.drawable.undraw_directions
+            )
+        )
+        mList.add(
+            ScreenItem(
+                "Earn More, Enjoy More",
+                "Within the UPG app, earn more points and enjoy more rewards.",
+                R.drawable.undraw_winners
+            )
+        )
 
         introViewPagerAdapter =
             IntroViewPagerAdapter(this, mList)

@@ -1,4 +1,4 @@
-package com.nanolabs.upgpainter.ui.fragments.ui.home
+package com.nanolabs.upgpainter.ui.fragments.home
 
 import androidx.lifecycle.ViewModel
 
