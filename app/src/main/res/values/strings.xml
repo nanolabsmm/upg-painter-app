@@ -55,6 +55,9 @@
     <string name="valued">Valued</string>
     <string name="redeem_price">5,000 kyats</string>
     <string name="redeem_button_points">500 points</string>
+    <string name="qr_scan_text">"Scan QR code to earn or "</string>
+    <string name="qr_scan_text1">redeem points</string>
+    <string name="inbox_text_title">Inbox</string>
 
 
 </resources>
